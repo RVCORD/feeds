@@ -11,7 +11,7 @@ waitUntil = "networkidle"
 [japan]
 title = "Red Velvet Japan ─ News"
 url = "https://redvelvet-jp.net/news/?page=1"
-entrySelector = "div a[class='entry-body cell']"
+entrySelector = "div.news-entry.grid-x.grid-padding-x.small-up-1.medium-up-3 > a"
 titleSelector = "h2[class='entry-title']"
 linkSelector = "a.entry-body.cell"
 imageSelector = "img"
