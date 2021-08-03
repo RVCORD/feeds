@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Aug 2021 05:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 20:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Mood Sampler (Red Velvet ─ Star Board)]]></title>
+            <link>https://vlive.tv/post/1-24521400</link>
+            <guid>https://vlive.tv/post/1-24521400</guid>
+            <pubDate>Tue, 03 Aug 2021 20:56:43 GMT</pubDate>
+            <content:encoded><![CDATA[5 hours ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210804_87/1628002820876B39vb_JPEG/1628001737633.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Queens Mystic General Store - 'Closed' #RedVelvet (Red Velvet ─ Star Board)]]></title>
             <link>https://vlive.tv/post/1-24451155</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/0-24395150</guid>
             <pubDate>Sun, 01 Aug 2021 19:55:30 GMT</pubDate>
             <content:encoded><![CDATA[Jul 29]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210730_87/1627570956786r22EN_JPEG/1627570752639.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Perfect 10' #IRENE (Red Velvet ─ Star Board)]]></title>
@@ -135,13 +142,6 @@
             <guid>https://vlive.tv/post/1-23043594</guid>
             <pubDate>Sun, 01 Aug 2021 19:55:30 GMT</pubDate>
             <content:encoded><![CDATA[May 22]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JOY "Hello" Mood Sampler #3 (Red Velvet ─ Star Board)]]></title>
-            <link>https://vlive.tv/post/1-23025014</link>
-            <guid>https://vlive.tv/post/1-23025014</guid>
-            <pubDate>Sun, 01 Aug 2021 19:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[May 21]]></content:encoded>
         </item>
     </channel>
 </rss>
