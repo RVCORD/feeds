@@ -7,3 +7,13 @@ linkSelector = "a[data-click]"
 imageSelector = "span[class^='covered_image']"
 contentSelector = ".upload_time--wtBj9"
 waitUntil = "networkidle"
+
+[vlive_post]
+title = "Red Velvet ─ Notice"
+url = "https://vlive.tv/channel/DCF447/board/1112"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = ".writer--pwvK2"
+waitUntil = "networkidle"
