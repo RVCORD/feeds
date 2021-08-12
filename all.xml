@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Aug 2021 07:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 08:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,58 +142,6 @@
             <guid>https://vlive.tv/post/1-23063480</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[May 23]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳 데뷔 7주년은 레베럽과 함께 축하해피니스~😊 (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/0-24348629</link>
-            <guid>https://vlive.tv/post/0-24348629</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210727_6/16273732533051Fm2b_JPEG/image.jpg?type=f200" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕! 난 너의 JOY야. 나와 함께해 줄 레베럽을 기다리고 있지😊 (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/0-23121648</link>
-            <guid>https://vlive.tv/post/0-23121648</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210710_39/1625886509062ngexr_PNG/image.PNG?type=f200" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[모집공고] 레드벨벳 웬디의 <WENDY's New Chapter : Like Water💙>를 함께 해줄 레베럽 (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/0-22089124</link>
-            <guid>https://vlive.tv/post/0-22089124</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210710_23/16258983219875K9F8_PNG/image.PNG?type=f200" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[레드벨벳-아이린&슬기의 Monster 주식회사👾] 고객센터 OPEN! (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/1-15313947</link>
-            <guid>https://vlive.tv/post/1-15313947</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서머퀸 레드벨벳의 BEST 서머송 앙케이트⛱️ (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/0-11677417</link>
-            <guid>https://vlive.tv/post/0-11677417</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레드벨벳과 함께하는 “짐살라빔 나잇🌙”여러분의 이야기로 밤을 채워주세요! (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/0-11241138</link>
-            <guid>https://vlive.tv/post/0-11241138</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[R알수록 B볼수록 B보고싶은 레드벨벳에게 질문을 남겨주세요! (Red Velvet ─ Notice)]]></title>
-            <link>https://vlive.tv/post/0-9106964</link>
-            <guid>https://vlive.tv/post/0-9106964</guid>
-            <pubDate>Wed, 11 Aug 2021 18:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[Staff_Red Velvet]]></content:encoded>
         </item>
     </channel>
 </rss>
