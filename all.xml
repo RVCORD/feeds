@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Aug 2021 10:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 11:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beyond LIVE - Red Velvet Online Fanmeeting - inteRView vol.7 : Queendom (Red Velvet ─ Star Board)]]></title>
+            <link>https://vlive.tv/post/0-24370747</link>
+            <guid>https://vlive.tv/post/0-24370747</guid>
+            <pubDate>Mon, 16 Aug 2021 11:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[20 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210728_171/1627462760319O0zwh_PNG/upload_71542495736820562232d130e-6fe2-45c6-8cb1-4d71f295758c.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV (Red Velvet ─ Star Board)]]></title>
             <link>https://vlive.tv/post/0-24801735</link>
             <guid>https://vlive.tv/post/0-24801735</guid>
             <pubDate>Mon, 16 Aug 2021 09:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[1 hour ago]]></content:encoded>
+            <content:encoded><![CDATA[2 hours ago]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210816_55/1629104494518FfW5w_JPEG/1629103996248.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24346714</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[Aug 4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210804_191/1628040336986JWjgE_JPEG/upload_72120058356715329edfef0bf-26f2-4ef7-ac16-1c705b8eba94.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Mood Sampler (Red Velvet ─ Star Board)]]></title>
@@ -135,13 +142,6 @@
             <guid>https://vlive.tv/post/1-23152951</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[May 27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JOY 조이 'Je T’aime' Live Video (Red Velvet ─ Star Board)]]></title>
-            <link>https://vlive.tv/post/0-23125114</link>
-            <guid>https://vlive.tv/post/0-23125114</guid>
-            <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[May 26]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레드벨벳 데뷔 7주년은 레베럽과 함께 축하해피니스~😊 (Red Velvet ─ Notice)]]></title>
