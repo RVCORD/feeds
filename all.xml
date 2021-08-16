@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Aug 2021 07:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Aug 2021 09:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' MV (Red Velvet ─ Star Board)]]></title>
+            <link>https://vlive.tv/post/0-24801735</link>
+            <guid>https://vlive.tv/post/0-24801735</guid>
+            <pubDate>Mon, 16 Aug 2021 09:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[12 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210816_55/1629104494518FfW5w_JPEG/1629103996248.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet "Queendom" MV Teaser (Red Velvet ─ Star Board)]]></title>
             <link>https://vlive.tv/post/1-24747836</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24521400</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[Aug 3]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210804_87/1628002820876B39vb_JPEG/1628001737633.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Queens Mystic General Store - 'Closed' #RedVelvet (Red Velvet ─ Star Board)]]></title>
@@ -135,13 +142,6 @@
             <guid>https://vlive.tv/post/0-23125114</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[May 26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JOY 조이 '안녕 (Hello)' Mood Sampler #6 (Red Velvet ─ Star Board)]]></title>
-            <link>https://vlive.tv/post/1-23097651</link>
-            <guid>https://vlive.tv/post/1-23097651</guid>
-            <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[May 24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[레드벨벳 데뷔 7주년은 레베럽과 함께 축하해피니스~😊 (Red Velvet ─ Notice)]]></title>
