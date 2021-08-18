@@ -4,9 +4,17 @@
         <title>Red Velvet ─ Star Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Aug 2021 08:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Aug 2021 09:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 'Pose' Performance Stage @inteRView vol.7 : Queendom]]></title>
+            <link>https://vlive.tv/post/0-24841714</link>
+            <guid>https://vlive.tv/post/0-24841714</guid>
+            <pubDate>Wed, 18 Aug 2021 09:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[12 minutes ago]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210818_188/1629277352268PkkxM_JPEG/1629275987537.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Velvet "Queendom" MV]]></title>
             <link>https://vlive.tv/post/0-24801735</link>
@@ -29,7 +37,6 @@
             <guid>https://vlive.tv/post/1-24346714</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[Aug 4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210804_191/1628040336986JWjgE_JPEG/upload_72120058356715329edfef0bf-26f2-4ef7-ac16-1c705b8eba94.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Mood Sampler]]></title>
@@ -135,13 +142,6 @@
             <guid>https://vlive.tv/post/1-23152951</guid>
             <pubDate>Sat, 07 Aug 2021 00:39:41 GMT</pubDate>
             <content:encoded><![CDATA[May 27]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JOY 조이 'Je T’aime' Live Video]]></title>
-            <link>https://vlive.tv/post/0-23125114</link>
-            <guid>https://vlive.tv/post/0-23125114</guid>
-            <pubDate>Mon, 16 Aug 2021 13:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[May 26]]></content:encoded>
         </item>
     </channel>
 </rss>
