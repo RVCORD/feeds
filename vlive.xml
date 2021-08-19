@@ -1,8 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vlive.tv/channel/DCF447/board/4540</id>
-    <title>Red Velvet ─ Star Board</title>
-    <updated>2021-08-19T11:13:04.490Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Red Velvet ─ Star Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 19 Aug 2021 12:22:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Red Velvet 'Pose' Performance Stage @inteRView vol.7 : Queendom]]></title>
+            <link>https://vlive.tv/post/0-24841714</link>
+            <guid>https://vlive.tv/post/0-24841714</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210818_188/1629277352268PkkxM_JPEG/1629275987537.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet "Queendom" MV]]></title>
+            <link>https://vlive.tv/post/0-24801735</link>
+            <guid>https://vlive.tv/post/0-24801735</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210816_55/1629104494518FfW5w_JPEG/1629103996248.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet "Queendom" MV Teaser]]></title>
+            <link>https://vlive.tv/post/1-24747836</link>
+            <guid>https://vlive.tv/post/1-24747836</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210813_240/1628845235391800UN_JPEG/1628842685740.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happiness~Red Velvet's 7th Anniversary😊]]></title>
+            <link>https://vlive.tv/post/1-24346714</link>
+            <guid>https://vlive.tv/post/1-24346714</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Red Velvet 레드벨벳 'Queendom' Mood Sampler]]></title>
+            <link>https://vlive.tv/post/1-24521400</link>
+            <guid>https://vlive.tv/post/1-24521400</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Aug 3]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Mystic General Store - 'Closed' #RedVelvet]]></title>
+            <link>https://vlive.tv/post/1-24451155</link>
+            <guid>https://vlive.tv/post/1-24451155</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'So Good' #SEULGI]]></title>
+            <link>https://vlive.tv/post/1-24426033</link>
+            <guid>https://vlive.tv/post/1-24426033</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 30]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Bad Dracula' #JOY]]></title>
+            <link>https://vlive.tv/post/0-24395150</link>
+            <guid>https://vlive.tv/post/0-24395150</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 29]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Perfect 10' #IRENE]]></title>
+            <link>https://vlive.tv/post/0-24375891</link>
+            <guid>https://vlive.tv/post/0-24375891</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 28]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet "Talk To Me" #YERI]]></title>
+            <link>https://vlive.tv/post/1-24361607</link>
+            <guid>https://vlive.tv/post/1-24361607</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 27]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet "I Just" #WENDY]]></title>
+            <link>https://vlive.tv/post/1-24339188</link>
+            <guid>https://vlive.tv/post/1-24339188</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 26]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Queens Archive - Red Velvet 레드벨벳 'Somethin Kinda Crazy']]></title>
+            <link>https://vlive.tv/post/1-24316887</link>
+            <guid>https://vlive.tv/post/1-24316887</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jul 25]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY "Hello" Dance Practice]]></title>
+            <link>https://vlive.tv/post/0-23545168</link>
+            <guid>https://vlive.tv/post/0-23545168</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jun 15]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY 조이 '좋을텐데 (If Only) (Feat. 폴킴)' Live Video]]></title>
+            <link>https://vlive.tv/post/0-23339534</link>
+            <guid>https://vlive.tv/post/0-23339534</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jun 6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[HELLO! I'm your JOY😊]]></title>
+            <link>https://vlive.tv/post/0-23121357</link>
+            <guid>https://vlive.tv/post/0-23121357</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jun 4]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY "Hello" MV]]></title>
+            <link>https://vlive.tv/post/0-23213281</link>
+            <guid>https://vlive.tv/post/0-23213281</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[May 31]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY 조이 안녕 '(Hello)' MV Teaser]]></title>
+            <link>https://vlive.tv/post/0-23181868</link>
+            <guid>https://vlive.tv/post/0-23181868</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[May 29]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY "Hello" Prologue #2 그럴때마다 (Be There For You)]]></title>
+            <link>https://vlive.tv/post/1-23173835</link>
+            <guid>https://vlive.tv/post/1-23173835</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[May 28]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JOY "Hello" Prologue #1 Day By Day]]></title>
+            <link>https://vlive.tv/post/1-23152951</link>
+            <guid>https://vlive.tv/post/1-23152951</guid>
+            <pubDate>Thu, 19 Aug 2021 12:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[May 27]]></content:encoded>
+        </item>
+    </channel>
+</rss>
